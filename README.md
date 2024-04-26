@@ -1,1 +1,1 @@
-# NodeJs-
+# NodeJs-Express-Mongoose-Bcrypt-Jsonwebtoken-Cors-Dotenv Kullanılarak oluşturulmuş , kayıt olma ve giriş yapma gibi özellikleri barındıran gelen dataların databasede saklanması ve authentication işlemlerini içeren çalışma.
